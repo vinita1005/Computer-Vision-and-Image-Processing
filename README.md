@@ -1,5 +1,7 @@
 # Computer-Vision-and-Image-Processing
-Implementation of various computer vision and image processing algorithms
+**Implementation of various computer vision and image processing algorithms
+
+**For this project, we have used the combination of Haar cascade classifiers and local binary patterns recognizer (LBPH).
 
 Abstract
 Lot of people visit the Davis Hall at the University of Buffalo’s North campus. The lobby of the building is completely packed with visitors and lot of the time 
@@ -10,6 +12,8 @@ enrollment. If you are already enrolled, it will gather your information and let
 A part of the enhancement! The system also has a speech synthesis module available. It will recognize the user and welcome him warmly. 
 If user is not registered to our backend system, it will ask if they want to register. 
 It will then take photos of the user for storage in our database and will train itself to recognize the user henceforth.
+
+
 
 Working of the system
 A simple use case:
