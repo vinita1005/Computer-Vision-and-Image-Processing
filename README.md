@@ -3,7 +3,8 @@
 
 **For this project, we have used the combination of Haar cascade classifiers and local binary patterns recognizer (LBPH).
 
-Abstract
+Abstract: 
+
 Lot of people visit the Davis Hall at the University of Buffalo’s North campus. The lobby of the building is completely packed with visitors and lot of the time 
 it becomes difficult to enroll people for certain visits or events.
 To ease this process, we have created a system which will enable people to attend and enroll themselves to such events and direct them to the particular hall/room.
@@ -16,6 +17,7 @@ It will then take photos of the user for storage in our database and will train 
 
 
 Working of the system
+
 A simple use case:
 1. A faculty/student stands in front of the designated area of the camera.
 2. The camera captures the user's face and runs face recognition.
