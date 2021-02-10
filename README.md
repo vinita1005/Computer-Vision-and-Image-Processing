@@ -1,9 +1,17 @@
 # Computer-Vision-and-Image-Processing
-**Implementation of various computer vision and image processing algorithms
 
-**For this project, we have used the combination of Haar cascade classifiers and local binary patterns recognizer (LBPH).
+# For this project, we have used the combination of Haar cascade classifiers and local binary patterns recognizer (LBPH).
 
-Abstract: 
+User at the entrance for the first time, systems reads the facial features and then registers them
+
+
+<img src="https://github.com/vinita1005/Computer-Vision-and-Image-Processing/blob/visual_welcome_center/screen-recorder-video-2021-09-2.gif" width="500" height="300">
+
+Next time user visits, the system recognizes the user and a welcome message is displayed along with visit information
+
+![caption](https://github.com/vinita1005/Computer-Vision-and-Image-Processing/blob/visual_welcome_center/ezgif.com-gif-maker.gif)
+
+# Abstract: 
 
 Lot of people visit the Davis Hall at the University of Buffalo’s North campus. The lobby of the building is completely packed with visitors and lot of the time 
 it becomes difficult to enroll people for certain visits or events.
@@ -16,7 +24,7 @@ It will then take photos of the user for storage in our database and will train 
 
 
 
-Working of the system
+# Working of the system
 
 A simple use case:
 1. A faculty/student stands in front of the designated area of the camera.
